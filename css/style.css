@@ -70,6 +70,10 @@ div.product-top h2{
         line-height: 1.3em;
         }
 
+.fa{
+    color:#b5b5b5;
+}
+
 @media (max-width:768px){
 	span.menu{
 		display: block;
