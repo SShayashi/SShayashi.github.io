@@ -1,4 +1,4 @@
-/* -------------------------------- 
+/* --------------------------------
 
 Primary style
 
@@ -34,9 +34,10 @@ img {
 h1, h2 {
   font-family: "Open Sans", sans-serif;
   font-weight: bold;
+  color: #000000;
 }
 
-/* -------------------------------- 
+/* --------------------------------
 
 Modules - reusable parts of our design
 
@@ -54,9 +55,9 @@ Modules - reusable parts of our design
   clear: both;
 }
 
-/* -------------------------------- 
+/* --------------------------------
 
-Main components 
+Main components
 
 -------------------------------- */
 header {
@@ -263,6 +264,9 @@ header h1 {
 }
 .cd-timeline-content .cd-read-more, .cd-timeline-content .cd-date {
   display: inline-block;
+}
+.cd-date{
+  color: #000000;
 }
 .cd-timeline-content p {
   margin: 1em 0;
