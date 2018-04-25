@@ -145,3 +145,13 @@ a {
 a:hover, a:focus, a:active {
   color: #824027;
 }
+
+.btn-download{
+  color: white;
+  background-color: #495057 !important;
+}
+
+.btn-download:hover, .btn-download:focus, .btn-download:active, .btn-download.active, .open>.dropdown-toggle.btn-download {
+    color: white;
+    background-color: #BD5D38 !important;
+}
